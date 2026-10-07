@@ -1,0 +1,39 @@
+[
+	{
+		"brand": "A.K.O.O Clothing",
+		"price":"200",
+		"img":"pic/top1.jpg"},
+	{
+		"brand": "B.K.T Clothing",
+		"price":"500",
+		"img":"pic/top2.jpg"},
+	{
+		"brand": "TheClothing",
+		"price":"800",
+		"img":"pic/top3.jpg"},
+	{
+		"brand": "dsadadg",
+		"price":"700",
+		"img":"pic/top4.jpg"},
+	{
+		"brand": "AAClothing",
+		"price":"900",
+		"img":"pic/top5.jpg"},
+	{
+		"brand": "HTY Clothing",
+		"price":"400",
+		"img":"pic/top6.jpg"},
+	{
+		"brand": "LO Clothing",
+		"price":"600",
+		"img":"pic/top7.jpg"},
+	{
+		"brand": "AE Clothing",
+		"price":"100",
+		"img":"pic/top8.jpg"},
+	{
+		"brand": "GG Clothing",
+		"price":"900",
+		"img":"pic/top9.jpg"}
+		
+	]

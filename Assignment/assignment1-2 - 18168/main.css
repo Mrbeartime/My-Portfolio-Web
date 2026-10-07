@@ -1,0 +1,183 @@
+/* This is a comment.
+    It can span many lines in a CSS file. */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700&display=swap');
+
+h1{
+    background-color: rgb(0, 0, 0);
+    color: rgb(209, 209, 209);
+    font-family: Garamond, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 100pt;
+    height: 160px;
+}
+img{
+    width: 100%;
+}
+
+/* Font-size */
+ul{
+    font-family: Garamond, 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    
+   
+}
+section{
+    font-family: Garamond, 'Times New Roman', Times, serif;
+    font-size: 15pt;
+    /* font-weight: bold; */
+    font-style: italic;
+   
+}
+
+B{
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Grouping styles */
+h4, h5{
+    /* background-color: rgb(230, 173, 173); */
+    font-family: Garamond, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+h4{
+    background-color: rgb(156, 50, 50);
+    font-size: 40pt;
+}
+
+h5{
+    font-size: 20pt;
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    color: #2d3748;
+    margin: 0 0 10px 0;
+}
+
+/* Text-align */
+div{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f0f4f8;
+}
+
+body{
+    background: linear-gradient(135deg, #1d4b91 0%, #c3cfe2 100%);
+    font-family: 'Outfit', 'Poppins', sans-serif;
+    color: #2d3748;
+    margin: 0;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+p{
+    font-size: 20pt;
+}
+
+a:link{
+    color : #3182ce;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a:visited{
+    color: #805ad5;
+
+}
+
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+a:active{
+    color: orange;
+}
+
+.left{
+    text-align: left;
+}
+
+
+.center{
+    text-align: center;
+}
+/* Text-decoration */
+/* th{
+    text-decoration: underline;
+    text-shadow: -1px 4px gray;
+} */
+
+/* Css: width and height */
+/* img{
+    width: 50%;
+} */
+hr{
+    height: 1px;
+    background-color: rgb(0, 0, 0);
+    border: none;
+}
+
+/* id and class */
+/* #pokemon_pic{
+    width: 50%;
+} */
+
+.left_page{
+    text-align: left;
+}
+
+/* context selectors */
+div a{
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+}
+
+
+
+ /* Tables Styling */
+table {
+    border-collapse: collapse;
+    width: 90%;
+    max-width: 500px;
+    background-color: #ffffff;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.06);
+    border-radius: 12px;
+}
+
+th, td {
+    text-align: center;
+}
+
+th {
+    background-color: #2c69da;
+    color: #ffffff;
+    font-weight: 600;
+    text-decoration: underline; 
+    font-size: 16px;
+    letter-spacing: 0.5px;
+}
+
+td {
+    border-bottom: 1px solid #f0f4f8;
+    color: #4a5568;
+    font-size: 15px;
+}
+
+.center-table{
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #000000;
+}
+ 
+.table_Border {
+    border: 3px solid #000000;}
